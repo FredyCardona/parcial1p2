@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProgramacionII2024-main/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/ProgramacionII2024-main/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacionII2024-main/Pizzeria/Pizzeria.iml" filepath="$PROJECT_DIR$/ProgramacionII2024-main/Pizzeria/Pizzeria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgramacionII2024-main.iml" filepath="$PROJECT_DIR$/.idea/ProgramacionII2024-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacionII2024-main/Tarea DOO/Tarea DOO.iml" filepath="$PROJECT_DIR$/ProgramacionII2024-main/Tarea DOO/Tarea DOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacionII2024-main/Tarea-1/Tarea-1.iml" filepath="$PROJECT_DIR$/ProgramacionII2024-main/Tarea-1/Tarea-1.iml" />
+    </modules>
+  </component>
+</project>
